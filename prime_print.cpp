@@ -11,7 +11,6 @@ int main(){
         for (j = 2; j < b;j++){
             if (i%j==0)
             {
-                // cout << "Not a Prime\n";
                 break;
             }
         }
