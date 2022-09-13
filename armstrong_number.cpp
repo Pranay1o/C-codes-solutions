@@ -1,5 +1,6 @@
 #include<iostream>
 #include<math.h>
+// Armstrong number: a number whose sum of the cubes of all digits is the number itself
 using namespace std;
 int main(){
     int n,sum=0;
